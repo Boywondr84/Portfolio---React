@@ -17,7 +17,7 @@ Pages included are:
 https://boywondr84.github.io/Portfolio---React/
 
 ## Screenshot
-<img src="assets\Screenshots\PortfolioScreenshot.png" />
+<img src="portfolio\PortfolioScreenshot.png" />
 
 ## Contribution
 Ryan Kahlbaugh
