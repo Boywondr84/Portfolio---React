@@ -1,4 +1,4 @@
-<!-- # Title
+# Title
 Personal Portfolio Using React as a Single Page Application:
 
 Pages included are:
@@ -20,4 +20,4 @@ https://boywondr84.github.io/Portfolio---React/
 <img src="portfolio\PortfolioScreenshot.png" />
 
 ## Contribution
-Ryan Kahlbaugh -->
+Ryan Kahlbaugh
