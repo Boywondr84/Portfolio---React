@@ -1,0 +1,28 @@
+Ryan Kahlbaugh 
+1500 N. Alpine Ave. WI
+800.123.4567 
+ryan.k@email.com 
+
+Education:
+
+    � Coding Bootcamp � University of Wisconsin
+        2022 (May - November)
+    � DePaul University Chicago, IL 
+        Performance Certificate (2010) 
+        MM, Percussion Performance (2008)
+          
+    � Manhattan School of Music New York, NY 
+        BM, Percussion Performance (2006) 
+					
+Professional Experience (Web Development):
+    � HTML, CSS & JavaScript
+    � API, MySQL, Node.js, Express.js
+    � MongoDB, React.js
+Professional Experience (Musician):
+
+    � Chicago Symphony Orchestra
+    � Grant Park Festival Orchestra
+    � Milwaukee Symphony Orchestra
+    � Milwaukee Ballet Orchestra
+    � Milwaukee Repertory Theater
+    � Present Music Ensemble
