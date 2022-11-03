@@ -8,7 +8,7 @@ function Footer () {
         <a href="https://github.com/Boywondr84">
         <AiFillGithub size="50px"/>
         </a>
-        <a href="https://www.linkedin.com/">
+        <a href="https://www.linkedin.com/in/ryan-kahlbaugh-837878255/">
         <AiFillLinkedin size="50px" />
         </a>
         <a href="https://www.facebook.com/">
