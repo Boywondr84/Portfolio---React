@@ -5,6 +5,7 @@ import Stars from '../../assets/Screenshots/Stars.png';
 import Weather from '../../assets/Screenshots/Weather.png';
 import TechBlog from '../../assets/Screenshots/TechBlogSite.jpg';
 import Meals from '../../assets/Screenshots/FamilyMeals.png';
+import Cookies from '../../assets/Screenshots/QuickCookie.png';
 
 const projects = [
     {
@@ -38,11 +39,16 @@ const projects = [
         GitHub: 'https://github.com/Boywondr84/My-First-Tech-Blog-Page'
     },
     {
+        name: 'Quick Cookie',
+        description: 'Online cookie retailer -- delivered to your door!',
+        link: 'https://boywondr84.github.io/mern-subscription/',
+        GitHub: 'https://github.com/Boywondr84/mern-subscription'
+    },
+    {
         name: 'Family Dinner Menu',
         description: 'Collection of meal recipes -- Still in development',
         link: 'N/A',
         GitHub: 'https://github.com/Boywondr84/Family-Dinner-Menu'
-
     }
 ];
 
@@ -81,8 +87,14 @@ function ProjectList() {
 
                 <a className="link" href={projects[5].link}>{projects[5].name}</a>
                 <a href={projects[5].GitHub}>{projects[5].name} Repo</a>
-                <img src={Meals} alt=""></img>
+                <img src={Cookies} alt=""></img>
                 <p>{projects[5].description}</p>
+                
+                <a className="link" href={projects[6].link}>{projects[6].name}</a>
+                <a href={projects[6].GitHub}>{projects[6].name} Repo</a>
+                <img src={Meals} alt=""></img>
+                <p>{projects[6].description}</p>
+
             </ul>
         </div>
     );
