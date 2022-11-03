@@ -58,39 +58,39 @@ function ProjectList() {
         <div className="projects">
             <h1>Projects:</h1>
             <ul>
-                <a className="link" href={projects[0].link}>{projects[0].name}</a>
+                <a className="link" href={projects[0].link}>{projects[0].name} Application</a>
                 <a href={projects[0].GitHub}>{projects[0].name} Repo</a>
                 <img src={Stars} alt=""></img>
                 <p>{projects[0].description}</p>
             
             
-                <a className="link" href={projects[1].link}>{projects[1].name}</a>
+                <a className="link" href={projects[1].link}>{projects[1].name} Application</a>
                 <a href={projects[1].GitHub}>{projects[1].name} Repo</a>
                 <img src={Weather} alt=""></img>
                 <p>{projects[1].description}</p>
             
             
-                <a className="link" href={projects[2].link}>{projects[2].name}</a>
+                <a className="link" href={projects[2].link}>{projects[2].name} Application</a>
                 <a href={projects[2].GitHub}>{projects[2].name} Repo</a>
                 <img src={JATE} alt=""></img> 
                 <p>{projects[2].description}</p>
             
-                <a className="link" href={projects[3].link}>{projects[3].name}</a>
+                <a className="link" href={projects[3].link}>{projects[3].name} Application</a>
                 <a href={projects[3].GitHub}>{projects[3].name} Repo</a>
                 <img src={iReadit} alt=""></img>
                 <p>{projects[3].description}</p>
 
-                <a className="link" href={projects[4].link}>{projects[4].name}</a>
+                <a className="link" href={projects[4].link}>{projects[4].name} Application</a>
                 <a href={projects[4].GitHub}>{projects[4].name} Repo</a>
                 <img src={TechBlog} alt=""></img>
                 <p>{projects[4].description}</p>
 
-                <a className="link" href={projects[5].link}>{projects[5].name}</a>
+                <a className="link" href={projects[5].link}>{projects[5].name} Application</a>
                 <a href={projects[5].GitHub}>{projects[5].name} Repo</a>
                 <img src={Cookies} alt=""></img>
                 <p>{projects[5].description}</p>
                 
-                <a className="link" href={projects[6].link}>{projects[6].name}</a>
+                <a className="link" href={projects[6].link}>{projects[6].name} Application</a>
                 <a href={projects[6].GitHub}>{projects[6].name} Repo</a>
                 <img src={Meals} alt=""></img>
                 <p>{projects[6].description}</p>
